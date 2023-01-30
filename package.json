@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/yvonneaime/DIG4639--Ex.3-.git"
   },
+  "type": "module",
   "author": "",
   "license": "ISC",
   "bugs": {
