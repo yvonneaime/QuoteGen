@@ -1,2 +1,2 @@
-# DIG4639--Ex.3-
-Quote Generator for Mobile Development 
+# Quote Generator (Mobile Development) 
+
